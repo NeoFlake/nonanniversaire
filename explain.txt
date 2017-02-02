@@ -1,0 +1,21 @@
+Bonjour à vous; encore désolé pour le son de vuvuzela à la fin de l'animation; mais c'était trop tentant
+de prendre à contre-pied l'exercice tout en gardant la volonté de faire les animations nécessaire.
+J'espère que l'animation quoique simpliste vous aura plus.
+
+Alors; l'idée était très simple; faire en sorte de changer le background du body en fonction des clicks
+sur les sections; tout en mettant en place une animation en fin de click sur la dernière pour permettre
+la mise en place de "l'escroquerie". En gros; faire de jolies animations qui poussent le client à rester
+sur la page en attente du troll final (avec l'apparition du son prévu dans l'exo).
+
+Honnêtement, l'idée reste assez basique; mais j'ai souhaité reprendre le concept du setTimeout vu dans le
+cours sur animer une page en JS (cours super bien au passage); et essayer de le reprendre en Query.
+Malheureusement, il s'avère que même sur la page d'apprentissage de Query, ils conseillent d'utiliser le
+setTimeout dans la plupart des cas car le .delay() montre actuellement des limites quand à son utilisation.
+
+D'où ma pyramide d'ouverture de setTimeout pour enchainer les évents à la suite du click sur la 3ème section.
+
+J'ai adoré l'idée de jouer sur l'esprit du non anniversaire; et si c'est votre anniversaire; je suis désolé
+de m'être trompé de jour... mais j'ai une chance sur 365 de me tromper (voir 366 si vous êtes d'un jour
+bissextile :D).
+
+Bonne journée/soirée/week end à vous; et bon courage pour la suite de l'apprentissage ^^.

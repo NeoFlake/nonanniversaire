@@ -1,0 +1,61 @@
+@font-face {
+	font-family: Alex;
+	src: url(../font/alex.ttf);
+}
+
+body {
+	background-color: #ADE1FD;
+}
+
+input {
+	display: block;
+	font-family: Alex;
+	font-size: 2em;
+	font-weight: bolder;
+}
+
+.border {
+	border: solid 2px #3D2B1F;
+	border-radius: 5px;
+}
+
+.centrage {
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.espacement {
+	margin-top: 3%;
+}
+
+.dimension {
+	width: 30%;
+	height: 70px;
+}
+
+.display {
+	display: none;
+}
+
+#zoneintro {
+	width: 35%;
+	height: 100px;
+	margin-top: 6%;
+	background-color: white;
+}
+
+#zoneune {
+	background-color: #7EFFCC;
+}
+
+#zonedeux {
+	background-color: #FFE997;
+}
+
+#zonetrois {
+	background-color: #FEA1D4;
+}
+
+audio {
+	display: none;
+}
